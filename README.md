@@ -32,12 +32,12 @@ Resolução dos meus primeiros exercícios sobre algorítimos da faculdade (veto
   tempo de garantia (em anos)  	    validade (em dias) 
 Podem ser armazenados até 5 eletrodomésticos e 5 perecíveis. Solicite ao usuário a quantidade de eletrodomésticos a serem cadastrados e faça o seu cadastro. Faça o mesmo com os perecíveis. Ao final, liste todos os produtos cadastrados.
 
-12. Construa um programa que permita o cadastro do nome, telefone e email de 5 pessoas. Após a leitura dos dados: 
+(12.) Construa um programa que permita o cadastro do nome, telefone e email de 5 pessoas. Após a leitura dos dados: 
   1.	Consulte os dados de uma pessoa (com base em um nome fornecido pelo usuário)
   2.	Exclua uma pessoa (com base em um nome fornecido pelo usuário)
   3.	Liste todos as pessoas cadastradas
 
-13. Elabore o cadastro de 5 compradores de uma loja de acordo com o seguinte formato:
+(13.) Elabore o cadastro de 5 compradores de uma loja de acordo com o seguinte formato:
   •	Nome
   •	Telefone
   •	Endereço residencial
