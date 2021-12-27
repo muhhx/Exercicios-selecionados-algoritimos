@@ -11,3 +11,7 @@ Resolução de dez exercícios da faculdade sobre vetores, feitos em C
 04. Construa um algoritmo que leia do teclado uma matriz quadrada (12 x 12) e verifique se ela é uma matriz identidade. Uma matriz quadrada possui o mesmo número de linhas e colunas. Uma matriz identidade possui 1 nos elementos da diagonal principal e 0 nos demais.
 
 05. Construa um algoritmo que leia uma matriz de dimensão 7 x 4 e, em um vetor de 7 elementos, armazene o menor elemento de cada linha da matriz.
+
+06. Elabore um algoritmo que leia do teclado uma matriz triangular superior de dimensão 20x20. Uma matriz triangular superior é quadrada e possui 0 nos elementos abaixo da diagonal principal e qualquer outro valor nos elementos da diagonal principal e acima dela.
+
+07. Elabore um algoritmo que leia uma matriz A dimensão 3x4 e crie uma matriz B que representa a transposta de A. Apresente na tela a matriz B.
